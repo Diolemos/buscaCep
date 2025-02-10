@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BuscaCepApplication {
+public class BuscaCep {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BuscaCepApplication.class, args);
+		SpringApplication.run(BuscaCep.class, args);
 	}
 
 }
